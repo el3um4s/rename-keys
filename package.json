@@ -1,6 +1,6 @@
 {
   "name": "@el3um4s/rename-keys",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Replaces the names of multiple object keys with the values provided.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
