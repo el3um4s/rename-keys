@@ -55,6 +55,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@el3um4s/is-object": "^0.0.3"
+    "@el3um4s/is-object": "^0.0.3",
+    "ts-jest": "^28.0.5"
   }
 }
